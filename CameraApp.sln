@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CameraApp", "CameraApp\CameraApp.csproj", "{421B69E2-1721-4B5B-BE5D-25497ED01278}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{421B69E2-1721-4B5B-BE5D-25497ED01278}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{421B69E2-1721-4B5B-BE5D-25497ED01278}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{421B69E2-1721-4B5B-BE5D-25497ED01278}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{421B69E2-1721-4B5B-BE5D-25497ED01278}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3425F713-E354-406E-8D53-6B8C59225244}
+	EndGlobalSection
+EndGlobal
