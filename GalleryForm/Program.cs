@@ -1,6 +1,6 @@
-namespace CameraApp
+namespace GalleryForm
 {
-    public static class Program
+    internal static class Program
     {
         /// <summary>
         ///  The main entry point for the application.
@@ -11,7 +11,7 @@ namespace CameraApp
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new formCamera());
+            Application.Run(new Form1());
         }
     }
 }
